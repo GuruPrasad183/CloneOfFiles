@@ -6,9 +6,10 @@ class Anagram
 	{
 
 	Scanner sc=new Scanner(System.in);
-	System.out.println("first String to be entered here :");
+
+	System.out.println("Enter the first String that is from the temporary account:");
 	String s1=sc.next();
-	System.out.println("Second string to be enterd here:");
+	System.out.println("Enter the first String that is from the temporary account:");
 	String s2=sc.next();
 	if(s1.length()==s2.length())
 	{
